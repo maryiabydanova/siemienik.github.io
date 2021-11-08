@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksiemienik_com=self.webpackChunksiemienik_com||[]).push([[195],{2841:function(e,n,t){t.r(n),t.d(n,{default:function(){return u}});var c=t(7294),i=t(5977);function u(){return c.createElement(i.l_,{to:"./docs/"})}}}]);
